@@ -1,5 +1,3 @@
 Here is some sample text.
 
-It's not necessary.
-
 This is to show how stuff is added and deleted.
